@@ -1,7 +1,11 @@
-Kubernetes Topology Graph
+Topology Graph for Kubernetes
 =========================
 
 Provides a simple force directed topology graph for kubernetes items.
+
+# Sample with microservices in OpenShift
+
+![Kubernetes items](topology2.png)
 
 #### Disclaimer
 This is an early implementation and is subject to change.
